@@ -1,0 +1,1 @@
+This project aims to analyze the data from the Paris 2024 Olympics using Power BI and Python, providing insights into various aspects of the games, including athlete performance, medal counts, and event participation.
