@@ -1,4 +1,17 @@
+# Project Title : Paris Olympics 2024 Data Analysis.
+
+## Technologies Used:
+  ### Python (Pandas): 
+  Performed data cleaning, manipulation, and analysis using Python’s Pandas library. Detailed methods and scripts are available here.
+  ### Power BI:
+  Data visualization, DAX calculations, and dashboard creation
+
+## Data Sources: 
+https://www.kaggle.com/datasets/piterfm/paris-2024-olympic-summer-games
+
+## Description
 This project aims to analyze the data from the Paris 2024 Olympics using Power BI and Python, providing insights into various aspects of the games, including athlete performance, medal counts, and event participation.
+
 
 ![Screenshot 2024-11-04 104532](https://github.com/user-attachments/assets/7bb42b2c-1d99-4f64-af3c-f798a1db9246)
 
